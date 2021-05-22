@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjiboi703
-- 👀 I’m interested in learning to code (duh)
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning c++/c, python and javascript
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me github
