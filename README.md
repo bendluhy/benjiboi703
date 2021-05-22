@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjiboi703
 - 👀 I’m interested in learning to code (duh)
-- 🌱 I’m currently learning c++/c, python and java
+- 🌱 I’m currently learning c++/c, python and javascript
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me github
 
